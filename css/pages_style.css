@@ -1,0 +1,19 @@
+	#maintext {
+		float: left;
+	    background: white; 
+	    width: 80%;
+	    margin-bottom: 10px;
+	    margin-left: 10%;
+		text-indent: 20px;
+	}
+
+	#footer {
+
+	      float: left;
+	      width: 80%;
+	      background-color: #ecd9c6;
+	      color: black;
+	      text-align: center;
+	      margin-bottom: 10px;
+	      margin-left: 10%;
+	} 
